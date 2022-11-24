@@ -2,7 +2,7 @@
 
 ## Project Proposal ##
 
-### Group 3 - Invesntment Wallys ###
+### Group 3 - Investment Wallys ###
 - Vikki Osipova
 - Robert Smart
 - Illia Park
