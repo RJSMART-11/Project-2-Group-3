@@ -2,11 +2,13 @@
 
 ## Project Proposal ##
 
+![Screenshot](Wally's_2.png)
+
 ### Group 3 - Investment Wallys ###
 - Vikki Osipova
 - Robert Smart
 - Illia Park
-- Leigh Goulett
+- Leigh Goullet
 - Karin Halpin
 
 Wallys SAAS Widgets is a made up company that gets its revenue from subscription sales.
