@@ -5,11 +5,7 @@
 ![Screenshot](Wally's_2.png)
 
 ### Group 3 - Investment Wallys ###
-- Vikki Osipova
-- Robert Smart
-- Illia Park
-- Leigh Goullet
-- Karin Halpin
+
 
 Wallys SAAS Widgets is a made up company that gets its revenue from subscription sales.
 These subscriptions are paid for in either USDC, ETH or WBTC crypto currencies. 
@@ -23,3 +19,39 @@ By the end of the month the balance should sit at 40% USD and 60% crypto currenc
 We will collect data for 3 years to model and predict and analyse the success of our bot.  
 
 We will use Prophet and Linear Regression for predictions. 
+
+
+Credits
+
+# Git Manager# 
+Robert
+
+# Data pre-processing, Alpaca Data - 3 years #
+Karin
+Vicky
+
+# Trading bot code and Alpaca #
+Leigh
+Robert
+Ilia
+
+# Prophet Model #
+Ilia
+Vicky
+
+# Linear Regression Model #
+Karin
+Vicky
+
+# Visual Representations - new Library Candlestick chart #
+Karin
+Vicky
+
+
+# Presentation preparation #
+Karin
+Vicky
+
+# Amazon Lex #
+Ilia
+Robert
