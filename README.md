@@ -18,11 +18,10 @@ Using indicators including Moving Average Convergence/Divergence (MACD), MYC Tra
 We then test to find the best predictive model from one of  predictive models: Desion tree, Propet, AdaBoost, SVC and the Linear Regression models. 
 
 
-After training different classification models using the training data, we compare accuracy, precision and recall of different models and determine the model with the optimum performance for the next month. 
+After training different classification models using the training data, we compare accuracy, precision and recall of different models and determine the model with the optimum performance for the next month. The results of the trading algorithm with best outcome we will later separate on features X (information about the price fluctuation and indicators) and predictions y (trading signals). Further the data will be split  on the training and testing sets. We will scale data. 
 
 After refining our strategy, we use the model to forecast the investment position as at the end of the month for our finance team. We also use the model to refined strategy. Similar to an exponential model, we have observed that the best results are produced from a data set consisting of a twelve month period.
 
-At the end of the month, the balance of our successful trading period is accounted for in our Tresury account.
 
 ![Screenshot2](Screenshot2.png)
 
