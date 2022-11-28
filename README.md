@@ -22,7 +22,7 @@ After training different classification models using the training data, we compa
 
 After refining our strategy, we use the model to forecast the investment position as at the end of the month for our finance team. We also use the model to refined strategy. Similar to an exponential model, we have observed that the best results are produced from a data set consisting of a twelve month period.
 
-At the end of the month, the balance of our successful trading period is accounted for in our Tresury account. Subject to the volitatly in the selected crypto price
+At the end of the month, the balance of our successful trading period is accounted for in our Tresury account.
 
 ![Screenshot2](Screenshot2.png)
 
@@ -59,7 +59,3 @@ Vicky
 # Presentation preparation #
 Karin
 Vicky
-
-# Amazon Lex #
-Ilia
-Robert
