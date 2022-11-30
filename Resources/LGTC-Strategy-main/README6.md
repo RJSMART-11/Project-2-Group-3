@@ -1,2 +1,0 @@
-# LGTC-Strategy
-Crypto dribblings
