@@ -40,7 +40,7 @@ AdaBoost testing report
 ![Screenshot](AB_testing_report.png)
 
 DecisionTreeClassifier testing report
-![Screenshot](DT_testing_report.png)
+![Screenshot](DT_testingreport.png)
 
 We also compared actual returns and trading algorithm returns.
 SVM Returns
@@ -50,9 +50,10 @@ Lineal Regression Returns
 ![Screenshot](LR_returns.png)
 
 AdaBoost Returns
-![Screenshot](LR_returns.png)
+![Screenshot](AB_returns.png)
 
 DecisionTreeClassifier Returns
 ![Screenshot](DT_returns.png)
 
 After comparing the results we can conclude that the prediction model that works the best with MACD indicator trading algorithm is Lineal Regression . As it has a better results of accuracy, precision and recall.
+The challenge that I met during the prosses was to make my strategy profitable. On the bearish traditional MACD strategy doesn't show  positive results. The solutions that I tryed: reverse buy and sell signals, reverse signals (short position) when EMA 200 shows negative change and others.
