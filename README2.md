@@ -67,9 +67,9 @@ One of the challenges we saw was the low accuracy represented in this model. How
 
 ![[Screenshot](Karin3.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin3.png)
 
-![[Screenshot](Karin4.png])(https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin4.png)
+![[Screenshot](Karin4.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin4.png)
 
-![[Screenshot](Karin5.png])(https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin5.png)
+![[Screenshot](Karin5.png])](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin5.png)
 
 
 
