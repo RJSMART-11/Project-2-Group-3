@@ -1,6 +1,6 @@
 # Project - Investment Wallys #
 
-## MACD  Indicator##
+## MACD  Indicator
 
 Moving Average Convergence Divergence (MACD)
 A trend-following momentum indicator that shows the relationship between two moving
@@ -18,7 +18,7 @@ Using crossing of the MACD line and signal line as an indicator to buy or sell w
 
 ![Screenshot](pic_2.png)
 
-We calculated that cumulative return while using MACD indicator for trading in mantioned period would be 2.5 % (not completely sure, could change)
+We calculated that cumulative return while using MACD indicator for trading in mantioned period would be negative 2.3 % (whole actual cumulative return dropped by 57 %)
 
 Following, we used coordinates of MACD line and signal line as a feature set and trading signals as a prediction set to train and test following prediction models:
 SVM (Support vector machines)
@@ -56,4 +56,6 @@ DecisionTreeClassifier Returns
 ![Screenshot](DT_returns.png)
 
 After comparing the results we can conclude that the prediction model that works the best with MACD indicator trading algorithm is Lineal Regression . As it has a better results of accuracy, precision and recall.
-The challenge that I met during the prosses was to make my strategy profitable. On the bearish traditional MACD strategy doesn't show  positive results. The solutions that I tryed: reverse buy and sell signals, reverse signals (short position) when EMA 200 shows negative change and others.
+
+The challenge that I met during the prosses was to make my strategy profitable. On the bearish extrimly volatile market MACD strategy doesn't show  positive results for Bitcoin, although results were better for different periods. 
+The solutions that I tryed: reverse buy and sell signals, reverse signals (short position) when EMA 200 shows negative change and others.
