@@ -67,11 +67,11 @@ We used the Standard Scaler to train and test the data.  From there we used the 
 
 One of the challenges we saw was the low accuracy represented in this model. However the strategy proved to be successful for both currencies.
 
-![Screenshot](Karin2.png)
+![Screenshot](Karin3.png)
 
-![Screenshot](Karin2.png)
+![Screenshot](Karin4.png)
 
-![Screenshot](Karin2.png)
+![Screenshot](Karin5.png)
 
 
 
