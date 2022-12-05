@@ -114,7 +114,7 @@ The MACD line is calculated by subtracting the 26-period EMA from the 12-period 
 MACD is best used with daily periods, where the traditional settings of 26/12/9 days is the norm.
 (investopedia.com)
 
-![Screenshot](../Resources/MACD_Vicky/pic_1.png)
+![Screenshot](.../Resources/MACD_Vicky/pic_1.png)
 
 Above Screenshot visualises MACD method for BTC for the period 01.10.2021 - 01.10.2021.
 
