@@ -29,19 +29,17 @@ At the end of the month, the balance of our successful trading period is account
 We used the SVM classifiers which is a regression techinique that maximises the predictive accurancy without overfitting the training data. 
 
 ![screenshot](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/ScreenShot%20_SVM1.png)
-![Screenshot](Screenshot_SVM1.png)
-![Screenshot](Screenshot_SVM1.png)
 
 ### Logistic Regression
 Is usefull where there are a volume of features of little value and can be ignored. It is a supervised learning technnique that is good at predicitng the probability of events based on dependant variables. Not all data fits a model cleanly which is why regression is good to analyzis the relationship between the variables.
 
-![Screenshot](Screenshot_Logistic1.png)
-![Screenshot](Screenshot_Logistic1.png)
+![Screenshot_Logistic1.png](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/Screenshot_Logistic1.png)
+![Screenshot_Logistic1.png](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/Screenshot_Logistic2.png)
 
 ### AdaBoost
 "Ada" or Adaptive Boosting was used to assess the accuracy and output data also. This works by adjusting or reassigning the weights to instances which reduces the bias in data sets. Accuracy after weight-reassigning and re-ittereating increases.
 
-![Screenshot](Screenshot_ADABoost1.png) 
+![(Screenshot_ADABoost1.png) ](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/Screenshot_AdaBoost1.png)
 ![Screenshot](Screenshot_AdaBoost2.png)
 
 ### Decision Tree
