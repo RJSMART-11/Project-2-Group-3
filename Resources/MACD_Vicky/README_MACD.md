@@ -33,7 +33,7 @@ Each model was trained and tested. Each training and testing was followed by cla
 SVM testing report
 ![Screenshot](SVM_testing_report.png)
 
-Lineal Regression testing report
+Logistic Regression testing report
 ![Screenshot](LR_testing_report.png)
 
 AdaBoost testing report
