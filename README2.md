@@ -182,6 +182,10 @@ With the aprovals of the finance team we have then invested our allocated funds 
   - Alpaca API
   - HVPLOT
   - MATPLOTLIB
+  - Numpy
+  - yfinance
+  - mplfinance
+  - sklearn
 
 
 ## Credits
