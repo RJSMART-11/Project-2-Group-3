@@ -175,6 +175,15 @@ With the aprovals of the finance team we have then invested our allocated funds 
 # Conclusion
 ## Challenges, results
 
+## Tools/libaries
+  - TALIB
+  - Finta
+  - SKLEARN
+  - Alpaca API
+  - HVPLOT
+  - MATPLOTLIB
+
+
 ## Credits
 
 ## Git Manager# 
