@@ -18,7 +18,7 @@ Using crossing of the MACD line and signal line as an indicator to buy or sell w
 
 ![Screenshot](pic_2.png)
 
-We calculated that cumulative return while using MACD indicator for trading in mantioned period would be negative 2.3 % (whole actual cumulative return dropped by 57 %)
+We calculated that cumulative return while using MACD indicator for trading in mantioned period would be negative 2.3 % (while actual cumulative return dropped by 57 %)
 
 Following, we used coordinates of MACD line and signal line as a feature set and trading signals as a prediction set to train and test following prediction models:
 SVM (Support vector machines)
