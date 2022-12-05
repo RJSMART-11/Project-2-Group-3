@@ -28,7 +28,7 @@ At the end of the month, the balance of our successful trading period is account
 ### SVM - Support Vector Machine 
 We used the SVM classifiers which is a regression techinique that maximises the predictive accurancy without overfitting the training data. 
 
-![Screenshot](Resources/Images/ScreenShot _SVM1.png)
+![Screenshot]([Resources/Images/ScreenShot _SVM1.png](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/ScreenShot%20_SVM1.png))
 ![Screenshot](Screenshot_SVM1.png)
 ![Screenshot](Screenshot_SVM1.png)
 
