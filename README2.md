@@ -45,7 +45,7 @@ Is usefull where there are a volume of features of little value and can be ignor
 ### Decision Tree
 The Decision Tree clssifier identifies the best predictor (Root Node) after breaking the data down to develop smaller and smaller subsets. Entropy and Information Gain are used to construct the decision tree. Entropy is used to calculate the homogeneity of the different attributes. Information Gain identifies the most homogeneous branches which returns the highest information gain. 
 
-![Screenshot](Screenshot_Decision_Tree1.png)
+![(Screenshot_Decision_Tree1.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/Screenshot_Decision_Tree1.png)
 
 
 # Strategy 1
@@ -55,21 +55,21 @@ We have used a simple moving average trading strategy to chart the price movemen
 
 The movement from October 1 2021 to October 1 2022 is represented below for ETH and BTC. Here we have used Simple Moving Averages of 50 and 100 respectively and identified the crossed over points.
 
-![Screenshot](Karin1.png)
+![[Screenshot](Karin1.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin1.png)
 
 From this we can see the SMA_200 is the best strategy to use for trading ETH and BTC in this portfolio.
 
-![Screenshot](Karin2.png)
+![[Screenshot](Karin2.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin2.png)
 
 We used the Standard Scaler to train and test the data.  From there we used the SVM Model to create the predictions.  
 
 One of the challenges we saw was the low accuracy represented in this model. However the strategy proved to be successful for both currencies.
 
-![Screenshot](Karin3.png)
+![[Screenshot](Karin3.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin3.png)
 
-![Screenshot](Karin4.png)
+![[Screenshot](Karin4.png])(https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin4.png)
 
-![Screenshot](Karin5.png)
+![[Screenshot](Karin5.png])(https://github.com/RJSMART-11/Project-2-Group-3/blob/main/karin5.png)
 
 
 
