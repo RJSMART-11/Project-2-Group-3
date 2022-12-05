@@ -170,7 +170,23 @@ The solutions that I tried included reversing the buy and sell signals pending t
 ## The Alpaca model
 With the aprovals of the finance team we have then invested our allocated funds in the market using the Alpaca trading plateform and our chosen strategy.
 
-# Robert Pict's and explainations ...........................
+## ALPACA TRADING BOT ##
+This Trading performs trade decisions via our strategy through the use of Alpaca
+- CORE Functions:
+    - Buy Orders
+    - Sell order
+    - Run Strategy
+    - Liquidate Positions
+- Key Features:
+  -  Buy/ Sell limitation: Current buying power and current position versus size/value of trade
+  - Pause Function: Allows the Bot to re-run every minute and updates our positions 
+  - Account status: This allows us to observe an account overview and check our current positions and profit/loss
+  - SMA Strategy implemented  for Machine learning and backtested algorithm 
+
+Possible issues: Please run this when there is enough data to read strategy from, I.e market open/closed conditions
+
+![screenshot](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/ALGO%20BOT%20CODE.png)
+![screenshot](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/ALGO%20BOT%20RESULT.png)
 
 # Conclusion
 ## Challenges, results
