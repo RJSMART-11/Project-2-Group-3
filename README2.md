@@ -192,7 +192,15 @@ Possible issues: Please run this when there is enough data to read strategy from
 
 # Conclusion
 ## Challenges, results
+Challenges -
+Some of the challenges we faced during the duration of the project were inaccuracy in some of our classification models,
+The inability of being able to produce short positions due to the crypto trading constraints of Alpaca.
 
+Next steps
+The next steps is to improve the accuracy of our some of the models,  develop and implement more trading strategies into our trading bot and also to check up on our portfolio to see how well our strategy’s performed.
+
+## Presentation ##
+https://my.visme.co/view/vdverqzj-d3o26v6690p7lgxw#s1
 ## Tools/libaries
   - TALIB
   - Finta
@@ -208,31 +216,31 @@ Possible issues: Please run this when there is enough data to read strategy from
 
 ## Credits
 
-## Git Manager# 
+### Git Manager### 
 Robert
 
-## Data pre-processing, Alpaca Data - 3 years #
+### Data pre-processing, Alpaca Data - 3 years ###
 Karin
 Vicky
 
-## Trading bot code and Alpaca #
+### Trading bot code and Alpaca ###
 Leigh
 Robert
 Ilia
 
-## Prophet Model #
+### Prophet Model ###
 Ilia
 Vicky
 
-## Logistic Regression Model #
+### Logistic Regression Model ###
 Karin
 Vicky
 
-## Visual Representations - new Library Candlestick chart #
+### Visual Representations - new Library Candlestick chart ###
 Karin
 Vicky
 
 
-## Presentation preparation #
+### Presentation preparation ###
 Karin
 Vicky
