@@ -84,7 +84,9 @@ Data for training ML models is provided by [Alpaca](https://alpaca.markets/).
 This model has taken 3 year time interval from 2019 to 2022 for ETHUSD and BTCUSD to train models.
 ### Prophet 
 As we only have control of the funds for a one month period invesetment, a forward prediction was necessary only for the next month.
-![Screenshot](ProphetBTCUSD.png)
+![[Screenshot](ProphetBTCUSD.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/I1.png)
+![[screenshot](I2.png)]https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/I2.png)
+
 
 After running the model, we predicte value for Bitcoin for the end of the December 2022 to be $9000 USD.
 
@@ -95,13 +97,13 @@ For predicting next coin value we have used the reliable classifier; Linear Regr
 The thought process behind feature extraction was not limit ourselves 
 with any values of rolling windows periods. We used EMA and SMA rolling windows with widths between 2 and 50 resulting into 100 new features. This strategy brought 8 percent profit over a one month period.
 
-![Screenshot](strattrade100.png)
+![Screenshot](strattrade100.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/Ilia1.png)
 
 Then we have chosen most valuable features among them based 
 on values of Linear Regression coefficients.
 By selecting the top 10 features; SMA_20, SMA_28, SMA_27, SMA_6, SMA_22, EMA_3, SMA_21,SMA_5, SMA_4, and EMA_2, helped to increase the profit from 8 to 18 percent.
 
-![Screenshot](strattrade10.png)
+![[Screenshot](strattrade10.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/Images/Ilia2.png)
 
 # Strategy 3
 ## MACD  Indicator
@@ -114,13 +116,13 @@ The MACD line is calculated by subtracting the 26-period EMA from the 12-period 
 MACD is best used with daily periods, where the traditional settings of 26/12/9 days is the norm.
 (investopedia.com)
 
-![Screenshot](.../Resources/MACD_Vicky/pic_1.png)
+![[Screenshot](.../Resources/MACD_Vicky/pic_1.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/pic_1.png)
 
 Above Screenshot visualises MACD method for BTC for the period 01.10.2021 - 01.10.2021.
 
 Using crossing of the MACD line and signal line as an indicator to buy or sell we determined the optimal according to this strategy moments to buy and sell BTC.
 
-![Screenshot](../Resources/MACD_Vicky/pic_2.png)
+![[Screenshot](../Resources/MACD_Vicky/pic_2.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/pic_2.png)
 
 We calculated that cumulative return while using MACD indicator for trading in mantioned period would be negative 2.3 % (while actual cumulative return dropped by 57 %)
 
@@ -135,29 +137,29 @@ But first we split the data on training and testing set and standardiezed it.
 Each model was trained and tested. Each training and testing was followed by classification report, showing the results of accuracy, precision and recall. 
 
 SVM testing report
-![Screenshot](../Resources/MACD_Vicky/SVM_testing_report.png)
+![[Screenshot](../Resources/MACD_Vicky/SVM_testing_report.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/SVM_testing_report.png)
 
 Logistic Regression testing report
-![Screenshot](../Resources/MACD_Vicky/LR_testing_report.png)
+![[Screenshot](../Resources/MACD_Vicky/LR_testing_report.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/LR_testing_report.png)
 
 AdaBoost testing report
-![Screenshot](../Resources/MACD_Vicky/AB_testing_report.png)
+![[Screenshot](../Resources/MACD_Vicky/AB_testing_report.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/AB_testing_report.png)
 
 DecisionTreeClassifier testing report
-![Screenshot](../Resources/MACD_Vicky/DT_testingreport.png)
+![[Screenshot](../Resources/MACD_Vicky/DT_testingreport.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/DT_testingreport.png)
 
 We also compared actual returns and trading algorithm returns.
 SVM Returns
-![Screenshot](../Resources/MACD_Vicky/SVM_returns.png)
+![[Screenshot](../Resources/MACD_Vicky/SVM_returns.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/SVM_returns.png)
 
 Logistic Regression Returns
-![Screenshot](../Resources/MACD_Vicky/LR_returns.png)
+![[Screenshot](../Resources/MACD_Vicky/LR_returns.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/LR_returns.png)
 
 AdaBoost Returns
-![Screenshot](../Resources/MACD_Vicky/AB_returns.png)
+![[Screenshot](../Resources/MACD_Vicky/AB_returns.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/AB_returns.png)
 
 DecisionTreeClassifier Returns
-![Screenshot](../Resources/MACD_Vicky/DT_returns.png)
+![[Screenshot](../Resources/MACD_Vicky/DT_returns.png)](https://github.com/RJSMART-11/Project-2-Group-3/blob/main/Resources/MACD_Vicky/DT_returns.png)
 
 After comparing the results we can conclude that the prediction model was most accurate with this MACD indicator trading algorithm is Logistic Regression. It showed a better result in accuracy, precision and recall.
 
