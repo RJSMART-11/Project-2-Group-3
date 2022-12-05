@@ -137,7 +137,7 @@ Each model was trained and tested. Each training and testing was followed by cla
 SVM testing report
 ![Screenshot](../Resources/MACD_Vicky/SVM_testing_report.png)
 
-Lineal Regression testing report
+Logistic Regression testing report
 ![Screenshot](../Resources/MACD_Vicky/LR_testing_report.png)
 
 AdaBoost testing report
@@ -150,7 +150,7 @@ We also compared actual returns and trading algorithm returns.
 SVM Returns
 ![Screenshot](../Resources/MACD_Vicky/SVM_returns.png)
 
-Lineal Regression Returns
+Logistic Regression Returns
 ![Screenshot](../Resources/MACD_Vicky/LR_returns.png)
 
 AdaBoost Returns
@@ -159,7 +159,7 @@ AdaBoost Returns
 DecisionTreeClassifier Returns
 ![Screenshot](../Resources/MACD_Vicky/DT_returns.png)
 
-After comparing the results we can conclude that the prediction model was most accurate with this MACD indicator trading algorithm is Lineal Regression. It showed a better result in accuracy, precision and recall.
+After comparing the results we can conclude that the prediction model was most accurate with this MACD indicator trading algorithm is Logistic Regression. It showed a better result in accuracy, precision and recall.
 
 ### MACD Challanges
 
@@ -202,7 +202,7 @@ Ilia
 Ilia
 Vicky
 
-## Linear Regression Model #
+## Logistic Regression Model #
 Karin
 Vicky
 
